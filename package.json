@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/Anastasiia-Chikrizova/Pokemon_test/issues"
   },
-  "homepage": "https://anastasiia-chikrizova.github.io/Pokemon_test/",
+  "homepage": "https://Anastasiia-Chikrizova.github.io/Pokemon_test/",
   "devDependencies": {
     "@babel/core": "^7.17.5",
     "@babel/preset-env": "^7.16.11",
