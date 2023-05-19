@@ -7,6 +7,7 @@
     "start": "webpack serve --env port=3000",
     "build:prod": "webpack --env mode=production",
     "build:dev": "webpack --env mode=development",
+    "deploy": "gh-pages -d build",
     "lint:ts": "eslint '**/*.{ts,tsx}'",
     "lint:ts:fix": "eslint '**/*.{ts,tsx}' --fix",
     "lint:css": "npx stylelint '**/*.scss'",
@@ -23,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/Anastasiia-Chikrizova/Pokemon_test/issues"
   },
-  "homepage": "https://anastasiia-chikrizova.github.io/Pokemon_test/",
+  "homepage": "https://anastasiia-chikrizova.github.io/Pokemon_test/index.html",
   "devDependencies": {
     "@babel/core": "^7.17.5",
     "@babel/preset-env": "^7.16.11",
