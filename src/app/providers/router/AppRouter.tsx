@@ -14,7 +14,6 @@ const AppRouter = () => (
                         <div className="page-wrapper">
                             {element}
                         </div>
-
                     </Suspense>
                 )}
                 path={path}
