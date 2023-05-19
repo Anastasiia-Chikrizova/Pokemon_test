@@ -1,1 +1,0 @@
-export { PokemonsList } from './PokemonsList';
